@@ -1,0 +1,37 @@
+{
+  "name": "ruet-cafehouse",
+  "version": "1.0.0",
+  "description": "RUET CafeHouse is a coffee shop for RUETian. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devcode-naiem/RUET-CafeHouse.git"
+  },
+  "keywords": [
+    "RUET",
+    "CafeHouse",
+    "Cafe",
+    "Coffee",
+    "RUETian",
+    "HTML",
+    "CSSS",
+    "Javascript",
+    "Nodejs",
+    "Expressjs",
+    "MySQL"
+  ],
+  "author": "MD. Naiem Islam Nahid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devcode-naiem/RUET-CafeHouse/issues"
+  },
+  "homepage": "https://github.com/devcode-naiem/RUET-CafeHouse#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql2": "^3.11.5"
+  }
+}
